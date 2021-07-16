@@ -1,0 +1,277 @@
+[
+  {
+    "date": "2021-05-01",
+    "payee": "Initial",
+    "amount": "18982.00"
+  },
+  {
+    "date": "2021-05-01",
+    "payee": "Uber",
+    "amount": "-41.30"
+  },
+  {
+    "date": "2021-05-01",
+    "payee": "Uber",
+    "amount": "-173.34"
+  },
+  {
+    "date": "2021-05-01",
+    "payee": "UberEats",
+    "amount": "-259.70"
+  },
+  {
+    "date": "2021-05-01",
+    "payee": "UberEats",
+    "amount": "-206.87"
+  },
+  {
+    "date": "2021-05-01",
+    "payee": "UberEats",
+    "amount": "-104.65"
+  },
+  {
+    "date": "2021-05-02",
+    "payee": "Uber",
+    "amount": "-94.58"
+  },
+  {
+    "date": "2021-05-02",
+    "payee": "UberEats",
+    "amount": "-164.76"
+  },
+  {
+    "date": "2021-05-02",
+    "payee": "UberEats",
+    "amount": "-283.56"
+  },
+  {
+    "date": "2021-05-02",
+    "payee": "UberEats",
+    "amount": "-104.40"
+  },
+  {
+    "date": "2021-05-02",
+    "payee": "UberEats",
+    "amount": "-207.48"
+  },
+  {
+    "date": "2021-05-04",
+    "payee": "Uber",
+    "amount": "-167.90"
+  },
+  {
+    "date": "2021-05-04",
+    "payee": "UberEats",
+    "amount": "-159.37"
+  },
+  {
+    "date": "2021-05-04",
+    "payee": "UberEats",
+    "amount": "-190.12"
+  },
+  {
+    "date": "2021-05-06",
+    "payee": "UberEats",
+    "amount": "-298.87"
+  },
+  {
+    "date": "2021-05-07",
+    "payee": "Uber",
+    "amount": "-99.48"
+  },
+  {
+    "date": "2021-05-07",
+    "payee": "Uber",
+    "amount": "-85.28"
+  },
+  {
+    "date": "2021-05-08",
+    "payee": "Liverpool",
+    "amount": "-3409.50"
+  },
+  {
+    "date": "2021-05-08",
+    "payee": "UberEats",
+    "amount": "-271.90"
+  },
+  {
+    "date": "2021-05-08",
+    "payee": "UberEats",
+    "amount": "-220.31"
+  },
+  {
+    "date": "2021-05-09",
+    "payee": "Uber",
+    "amount": "-173.45"
+  },
+  {
+    "date": "2021-05-10",
+    "payee": "Uber",
+    "amount": "-119.06"
+  },
+  {
+    "date": "2021-05-10",
+    "payee": "Uber",
+    "amount": "-50.76"
+  },
+  {
+    "date": "2021-05-10",
+    "payee": "UberEats",
+    "amount": "-173.09"
+  },
+  {
+    "date": "2021-05-10",
+    "payee": "UberEats",
+    "amount": "-221.19"
+  },
+  {
+    "date": "2021-05-11",
+    "payee": "Uber",
+    "amount": "-55.17"
+  },
+  {
+    "date": "2021-05-11",
+    "payee": "Uber",
+    "amount": "-71.21"
+  },
+  {
+    "date": "2021-05-12",
+    "payee": "Uber",
+    "amount": "-83.90"
+  },
+  {
+    "date": "2021-05-12",
+    "payee": "Amazon",
+    "amount": "-3708.94"
+  },
+  {
+    "date": "2021-05-12",
+    "payee": "UberEats",
+    "amount": "-90.49"
+  },
+  {
+    "date": "2021-05-14",
+    "payee": "Uber",
+    "amount": "-36.93"
+  },
+  {
+    "date": "2021-05-14",
+    "payee": "UberEats",
+    "amount": "-142.37"
+  },
+  {
+    "date": "2021-05-15",
+    "payee": "UberEats",
+    "amount": "-225.09"
+  },
+  {
+    "date": "2021-05-15",
+    "payee": "UberEats",
+    "amount": "-191.78"
+  },
+  {
+    "date": "2021-05-15",
+    "payee": "UberEats",
+    "amount": "-154.52"
+  },
+  {
+    "date": "2021-05-16",
+    "payee": "UberEats",
+    "amount": "-161.24"
+  },
+  {
+    "date": "2021-05-16",
+    "payee": "UberEats",
+    "amount": "-225.17"
+  },
+  {
+    "date": "2021-05-17",
+    "payee": "Amazon",
+    "amount": "-3315.74"
+  },
+  {
+    "date": "2021-05-18",
+    "payee": "Uber",
+    "amount": "-82.68"
+  },
+  {
+    "date": "2021-05-19",
+    "payee": "UberEats",
+    "amount": "-141.64"
+  },
+  {
+    "date": "2021-05-20",
+    "payee": "Empresa",
+    "amount": "32839.00"
+  },
+  {
+    "date": "2021-05-20",
+    "payee": "UberEats",
+    "amount": "-220.27"
+  },
+  {
+    "date": "2021-05-21",
+    "payee": "Uber",
+    "amount": "-135.15"
+  },
+  {
+    "date": "2021-05-21",
+    "payee": "Renta",
+    "amount": "-7500.00"
+  },
+  {
+    "date": "2021-05-22",
+    "payee": "UberEats",
+    "amount": "-145.31"
+  },
+  {
+    "date": "2021-05-23",
+    "payee": "Liverpool",
+    "amount": "-3749.16"
+  },
+  {
+    "date": "2021-05-23",
+    "payee": "UberEats",
+    "amount": "-159.24"
+  },
+  {
+    "date": "2021-05-24",
+    "payee": "UberEats",
+    "amount": "-195.85"
+  },
+  {
+    "date": "2021-05-24",
+    "payee": "UberEats",
+    "amount": "-91.34"
+  },
+  {
+    "date": "2021-05-27",
+    "payee": "Uber",
+    "amount": "-153.75"
+  },
+  {
+    "date": "2021-05-28",
+    "payee": "Uber",
+    "amount": "-98.94"
+  },
+  {
+    "date": "2021-05-29",
+    "payee": "UberEats",
+    "amount": "-295.71"
+  },
+  {
+    "date": "2021-05-29",
+    "payee": "UberEats",
+    "amount": "-289.25"
+  },
+  {
+    "date": "2021-05-30",
+    "payee": "UberEats",
+    "amount": "-153.76"
+  },
+  {
+    "date": "2021-05-31",
+    "payee": "Uber",
+    "amount": "-91.04"
+  }
+]
